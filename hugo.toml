@@ -1,0 +1,4 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Boston DH 2025: How to make a map mosaic'
+theme = 'archie'

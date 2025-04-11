@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Boston DH 2025: How to make a map mosaic</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Boston DH 2025: How to make a map mosaic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2025 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesson 1: Georeferencing and IIIF</title>
+      <link>http://localhost:1313/posts/lesson-1/</link>
+      <pubDate>Thu, 10 Apr 2025 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/lesson-1/</guid>
+      <description>&lt;div class=&#39;callout callout-custom&#39; style=&#39;background-color:rgb(244, 228, 245); border: 1px dotted #d340e0;&#39;&gt;&#xA;  &lt;div class=&#34;callout-inner&#34;&gt;&#xA;    &#xA;    📚 &lt;u&gt;Lesson plan&lt;/u&gt;&#xA;    &lt;br /&gt;&#xA;    This lesson introduces core concepts associated with georeferencing and the international image interoperability framework (IIIF).&#xA;    &#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;georeferencing&#34;&gt;Georeferencing&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Georeferencing&#34;&gt;Georeferencing&lt;/a&gt; is the process of overlaying a digital image on a map by matching pixels on the image to real geographic locations. This is commonly done with aerial and satellite photography to transform photographs into usable spatial data. It&amp;rsquo;s also used to overlay historic maps on modern maps and compare change over time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lesson 2: Georeferencing in Allmaps</title>
+      <link>http://localhost:1313/posts/lesson-2/</link>
+      <pubDate>Wed, 09 Apr 2025 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/lesson-2/</guid>
+      <description>&lt;div class=&#39;callout callout-custom&#39; style=&#39;background-color:rgb(244, 228, 245); border: 1px dotted #d340e0;&#39;&gt;&#xA;  &lt;div class=&#34;callout-inner&#34;&gt;&#xA;    &#xA;    📚 &lt;u&gt;Lesson plan&lt;/u&gt;&#xA;    &lt;br /&gt;&#xA;    In this lesson, we&amp;#39;ll get hands-on experience georeferencing maps in Allmaps, including an overview of the georeferencing workflow. Follow along!&#xA;    &#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;allmaps-editor&#34;&gt;Allmaps Editor&lt;/h2&gt;&#xA;&lt;p&gt;If you haven&amp;rsquo;t already, launch the Allmaps Editor by going to &lt;a href=&#34;https://editor.allmaps.org&#34;&gt;editor.allmaps.org&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can choose a map by either:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Entering a &lt;strong&gt;IIIF Manifest URL&lt;/strong&gt; in the text box at the top of the page&lt;/li&gt;&#xA;&lt;li&gt;Scrolling down to find a map in one of the highlighted collections&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/georef_nz1_start.png&#34; alt=&#34;Start screen of the Allmaps Editor&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lesson 3: Doing more with Allmaps</title>
+      <link>http://localhost:1313/posts/lesson-3/</link>
+      <pubDate>Tue, 08 Apr 2025 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/lesson-3/</guid>
+      <description>&lt;div class=&#39;callout callout-custom&#39; style=&#39;background-color:rgb(244, 228, 245); border: 1px dotted #d340e0;&#39;&gt;&#xA;  &lt;div class=&#34;callout-inner&#34;&gt;&#xA;    &#xA;    📚 &lt;u&gt;Lesson plan&lt;/u&gt;&#xA;    &lt;br /&gt;&#xA;    This lesson introduces some additional applications in the Allmaps application, including Viewer, as well as other transformation types. We&amp;#39;ll also work together to make a map mosaic of urban atlases that we can all view at the end of the workshop.&#xA;    &#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;allmaps-viewer&#34;&gt;Allmaps Viewer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://viewer.allmaps.org&#34;&gt;Allmaps Viewer&lt;/a&gt; is used to view georeferenced maps in Allmaps. Similar to the &lt;strong&gt;Results&lt;/strong&gt; tab in the Editor, you can see the map overlaid on a web map.&#xA;The Viewer also includes &lt;strong&gt;additional tools&lt;/strong&gt; that let you customize the appearance and functionality of your map.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
