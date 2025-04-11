@@ -55,7 +55,7 @@ Different algorithms will produce different results. Some algorithms, like **Thi
 
 ![Comparison of different transformation algorithms](../../images/transform.gif)
 
-You can set the **transformation type**
+You can set the **transformation type** in the **GCP List Drawer** of Allmaps Editor. Feel free to try it out and see what happens!
 
 ## Mosaiquing an atlas together
 
