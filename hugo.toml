@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://itspangler.github.io/dh-symposium-2025/'
 languageCode = 'en-us'
 title = 'Boston DH 2025: How to make a map mosaic'
 theme = 'archie'
