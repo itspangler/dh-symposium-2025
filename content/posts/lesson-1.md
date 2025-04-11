@@ -6,14 +6,6 @@ date: 2025-04-10T02:01:58+05:30
 
 {{< callout type="custom" emoji="📚" title="Lesson plan" text="This lesson introduces core concepts associated with georeferencing and the international image interoperability framework (IIIF)." style="background-color:rgb(244, 228, 245); border: 1px dotted #d340e0;" >}}
 
-<!-- ## [here.allmaps.org](https://here.allmaps.org)
-
-Go to [here.allmaps.org](https://here.allmaps.org) in your browser and, if prompted, allow the website to access your location.
-
-The maps returned are maps that have been **georeferenced** using the Allmaps platform. They're all maps held in digital collections—for example,
-the [AGSL Digital Map Collection](https://uwm.edu/lib-collections/agsl-digital-map-collection/).
-In fact, any map in our collection can be used, and so can maps from any collection that uses **IIIF**, the **International Image Interoperability Framework**. -->
-
 ## Georeferencing
 
 [Georeferencing](https://en.wikipedia.org/wiki/Georeferencing) is the process of overlaying a digital image on a map by matching pixels on the image to real geographic locations. This is commonly done with aerial and satellite photography to transform photographs into usable spatial data. It's also used to overlay historic maps on modern maps and compare change over time.
