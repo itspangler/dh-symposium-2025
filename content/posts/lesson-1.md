@@ -4,6 +4,8 @@ description: "Introducing core concepts of georeferencing and the international 
 date: 2025-04-10T02:01:58+05:30
 ---
 
+Test!!!
+
 {{< callout type="custom" emoji="📚" title="Lesson plan" text="This lesson introduces core concepts associated with georeferencing and the international image interoperability framework (IIIF)." style="background-color:rgb(244, 228, 245); border: 1px dotted #d340e0;" >}}
 
 <!-- ## [here.allmaps.org](https://here.allmaps.org)
